@@ -1,6 +1,6 @@
 # Morswiny Web Events
 
-<img src="https://user-images.githubusercontent.com/64745872/99919811-f4d88a00-2d1f-11eb-931d-2cc5611d4914.png" width="100" height=100px /img>
+<img src="https://user-images.githubusercontent.com/64745872/99919811-f4d88a00-2d1f-11eb-931d-2cc5611d4914.png" width="100" height=100px />
 
 
 Project: Terminal & Web App to register & manage cultural events
