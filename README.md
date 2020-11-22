@@ -5,31 +5,28 @@
   </p>
 
 
-Project: Terminal & Web App to register & manage cultural events
-in Tricity
+Project: Terminal App to register & manage cultural events in Tricity
+
+The terminal application was the 1st part of the Project requirements and all code is set up for the user-terminal integration.
+
+ver. Morswiny-1.0-SNAPSHOT
 
 ### Mission
 
-- REST API integration to get events data
-- Add, delete, update events and users using Hibernate
+- Gson integration to get events data from the JSON file recevied from tricity website
+- Add, delete, update events via terminal console
 - Manage favourite and created events
-- Authorize and administrate the app via admin panel
+- Simple terminal navigation
 
 ### Technology
 
-Used: Java 14, Java EE, Rest API, HTML5, CSS3, Bootstrap, JavaScript, JUnit, Freemarker, Hibernate, mySQL, Docker, Maven, Wildfly.
+Used: Java 14, Maven.
 
 ### Requirement
 
 The code is tested on Ubuntu and macOS. Java>=8+ and Maven are required to run the code.
 
-### To Do
-- [x] Release 1.3.0 version with full hibernate connection
-- [ ] Refactor REST API logic
-- [ ] Clean testing code
-- [ ] TBA
-
-### Terminal Application
-Previous repository as 1st part of the project with terminal implementation: [Terminal App](https://github.com/infoshareacademy/jjdzr1-morswiny)
+### Web Application
+Web repository as 2nd part of the project with web implementation: [Web App](https://github.com/infoshareacademy/jjdzr1-morswiny-rest)
 
 
