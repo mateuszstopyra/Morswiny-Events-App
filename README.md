@@ -1,4 +1,4 @@
-# Morswiny Web Events {align=center}
+# Morswiny Web Events {style=text-align:center}
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64745872/99919811-f4d88a00-2d1f-11eb-931d-2cc5611d4914.png" width="400" height="400"  />
