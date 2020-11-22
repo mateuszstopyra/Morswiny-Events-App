@@ -2,6 +2,8 @@
 
 <p align="center"><img style="height: 300px" width="300px"  src='/Users/mateuszstopyra/Desktop/Project/sprint4/jjdzr1-morswiny-rest/src/main/webapp/Images/morswin.png'></p>
 
+![alt text](http://url/to/img.png)
+
 Project: Terminal & Web App to register & manage cultural events
 in Tricity
 
@@ -18,7 +20,7 @@ Used: Java 14, Java EE, Rest API, HTML5, CSS3, Bootstrap, JavaScript, JUnit, Fre
 
 ### Requirement
 
-The code is tested on Ubuntu and macOS. Java>=8+ is required to run the code.
+The code is tested on Ubuntu and macOS. Java>=8+ and Maven are required to run the code.
 
 ### To Do
 - [x] Release 1.3.0 version with full hibernate connection
