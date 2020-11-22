@@ -1,6 +1,6 @@
 # Morswiny Web Events
 
-![—Pngtree—dolphins and wave2_3988856](https://user-images.githubusercontent.com/64745872/99919811-f4d88a00-2d1f-11eb-931d-2cc5611d4914.png)
+<img style="height: 300px" width="300px" ![—Pngtree—dolphins and wave2_3988856](https://user-images.githubusercontent.com/64745872/99919811-f4d88a00-2d1f-11eb-931d-2cc5611d4914.png)</img>
 
 
 Project: Terminal & Web App to register & manage cultural events
