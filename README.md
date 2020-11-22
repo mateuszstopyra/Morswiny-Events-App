@@ -5,8 +5,6 @@
   </p>
 
 
-![alt text](http://url/to/img.png)
-
 Project: Terminal & Web App to register & manage cultural events
 in Tricity
 

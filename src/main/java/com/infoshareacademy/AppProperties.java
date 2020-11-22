@@ -8,7 +8,6 @@ public class AppProperties {
     private Properties properties = new Properties();
     private File file = new File("resources/config.properties");
 
-    // load properties from .properties file
     public void loadProperties() throws IOException {
 
         FileInputStream input = null;
@@ -22,7 +21,6 @@ public class AppProperties {
 
     }
 
-    // add new key,value to .properties file and save
     public void addAndSaveProperties(String key, String value){
         OutputStream output;
         try {

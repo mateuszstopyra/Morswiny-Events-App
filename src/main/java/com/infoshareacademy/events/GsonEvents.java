@@ -18,7 +18,7 @@ public class GsonEvents {
         try {
             jsonReader = new JsonReader(new FileReader(filePath));
         } catch (Exception e) {
-            STDOUT.error("Plik nie moze byc znaleziony lub nie jest w formacie JSON. Upewnij sie, ze podales wlasciwe dane.");
+            STDOUT.error("The file cannot be found or is not in JSON format. Make sure you enter the correct details.");
         }
         return gson.fromJson(jsonReader, Event[].class);
     }
