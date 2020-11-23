@@ -5,9 +5,9 @@
   </p>
 
 
-Project: Terminal App to register & manage cultural events in Tricity
+Project: Console App to register & manage cultural events in Tricity
 
-The terminal application was the 1st part of the Project requirements and all code is set up for the user-terminal integration.
+The console application was the 1st part of the Project requirements and all code is set up for the user-terminal integration.
 
 ver. Morswiny-1.0-SNAPSHOT
 
