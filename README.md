@@ -20,7 +20,7 @@ ver. Morswiny-1.0-SNAPSHOT
 
 ### Technology
 
-Used: Java 14, Maven.
+Used: Java 11, Maven.
 
 ### Requirement
 
